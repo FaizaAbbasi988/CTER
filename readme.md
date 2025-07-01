@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 python main.py
 
-##📁 Structure
+## 📁 Structure
 
 main.py — Main execution script
 
