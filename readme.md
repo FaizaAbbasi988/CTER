@@ -5,8 +5,10 @@ A modular Python project combining CNN and transformer for feature extraction, E
 ## 🔧 Setup
 
 1. Clone the repo:
+   
    git clone https://github.com/FaizaAbbasi988/CTER.git
-   cd CTER
+   
+2. cd CTER
 ## Install dependencies:
 
 pip install -r requirements.txt
