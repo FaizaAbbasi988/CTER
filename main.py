@@ -107,13 +107,3 @@ def main():
     result_write.close()
 
 
-if __name__ == "__main__":
-    print(time.asctime(time.localtime(time.time())))
-    main()
-    print(time.asctime(time.localtime(time.time())))
-    # Load the saved features from the file
-    loaded_features = np.load('filename.npy')
-
-    loaded_features.shape
-
-    loaded_features_CNN = pd.DataFrame(loaded_features)
